@@ -1,30 +1,29 @@
 ## Premium Bitcoin and cryptocurrency domain
 
-### Domain names
-*frequent updates
+### Domain names, weekly updates
 
-bitcoinopy.com
-bitcoinpdf.com
-bitcoinbell.com
-bitcoinlens.com
-bitcoinpics.com
-bitcoindisk.com
-bitcoinword.com
-bitcoinsdesk.com
-bitcoinquest.com
-bitcoinplane.com
-bitcoinscoop.com
-bitcoinscores.com
-bitcoinsfamily.com
-bitcointoolbar.com
+1 bitcoinopy.com
+2 bitcoinpdf.com
+3 bitcoinbell.com
+4 bitcoinlens.com
+5 bitcoinpics.com
+6 bitcoindisk.com
+7 bitcoinword.com
+8 bitcoinsdesk.com
+9 bitcoinquest.com
+10 bitcoinplane.com
+11 bitcoinscoop.com
+12 bitcoinscores.com
+13 bitcoinsfamily.com
+14 bitcointoolbar.com
 
-coinographic.com
+15 coinographic.com
 
-101bitcoins.com
-newsinbitcoin.com
+16 101bitcoins.com
+17 newsinbitcoin.com
 
-hoobl.com
-woorp.com
+18 hoobl.com
+19 woorp.com
 
 ### Price packs
 - 1 domain 1 BTC
