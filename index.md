@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Premium Bitcoin and cryptocurrency domain
 
-You can use the [editor on GitHub](https://github.com/coinname/coinname.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Domain names
+*frequent updates
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+bitcoinopy.com
+bitcoinpdf.com
+bitcoinbell.com
+bitcoinlens.com
+bitcoinpics.com
+bitcoindisk.com
+bitcoinword.com
+bitcoinsdesk.com
+bitcoinquest.com
+bitcoinplane.com
+bitcoinscoop.com
+bitcoinscores.com
+bitcoinsfamily.com
+bitcointoolbar.com
 
-### Markdown
+coinographic.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+101bitcoins.com
+newsinbitcoin.com
 
-```markdown
-Syntax highlighted code block
+hoobl.com
+woorp.com
 
-# Header 1
-## Header 2
-### Header 3
+### Price packs
+- 1 domain 1 BTC
+- 2 domain 1.5 BTC
+- 3 domain 2 BTC
+- 4 domain 2.5 BTC
+- 5 domain 3 BTC
+- 6 domain 3.5 BTC
+- 7 domain 4 BTC
+- 8 domain 4.5 BTC
+- 9 domain 5 BTC
+- 10 domain 5.5 BTC
 
-- Bulleted
-- List
+### Friends discount
+20% on any price pack
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coinname/coinname.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Please, contact simpleweb @ tutanota dot com 
