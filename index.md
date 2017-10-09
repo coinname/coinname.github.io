@@ -1,4 +1,4 @@
-## Premium Bitcoin and cryptocurrency domain
+## Premium Bitcoin and cryptocurrency domains
 
 ### Domain names, weekly updates
 
