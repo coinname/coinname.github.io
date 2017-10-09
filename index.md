@@ -27,15 +27,15 @@
 
 ### Price packs
 - 1 domain 1 BTC
-- 2 domain 1.5 BTC
-- 3 domain 2 BTC
-- 4 domain 2.5 BTC
-- 5 domain 3 BTC
-- 6 domain 3.5 BTC
-- 7 domain 4 BTC
-- 8 domain 4.5 BTC
-- 9 domain 5 BTC
-- 10 domain 5.5 BTC
+- 2 domains 1.5 BTC
+- 3 domains 2 BTC
+- 4 domains 2.5 BTC
+- 5 domains 3 BTC
+- 6 domains 3.5 BTC
+- 7 domains 4 BTC
+- 8 domains 4.5 BTC
+- 9 domains 5 BTC
+- 10 domains 5.5 BTC
 
 ### Friends discount
 20% on any price pack
